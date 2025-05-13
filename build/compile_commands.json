@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\Main.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\Main.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/Main.cpp",
+  "output": "CMakeFiles/Order.dir/Main.cpp.obj"
+},
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\identity.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\identity.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/identity.cpp",
+  "output": "CMakeFiles/Order.dir/identity.cpp.obj"
+},
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\student.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\student.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/student.cpp",
+  "output": "CMakeFiles/Order.dir/student.cpp.obj"
+},
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\teacher.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\teacher.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/teacher.cpp",
+  "output": "CMakeFiles/Order.dir/teacher.cpp.obj"
+},
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\manager.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\manager.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/manager.cpp",
+  "output": "CMakeFiles/Order.dir/manager.cpp.obj"
+},
+{
+  "directory": "D:/code/vscode/项目/4.机房预约系统/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Order.dir\\orderFile.cpp.obj -c D:\\code\\vscode\\项目\\4.机房预约系统\\orderFile.cpp",
+  "file": "D:/code/vscode/项目/4.机房预约系统/orderFile.cpp",
+  "output": "CMakeFiles/Order.dir/orderFile.cpp.obj"
+}
+]

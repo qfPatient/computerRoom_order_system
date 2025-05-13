@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(Order)
+
+add_executable(Order Main.cpp identity.cpp student.cpp teacher.cpp manager.cpp orderFile.cpp)
